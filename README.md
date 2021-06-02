@@ -1,3 +1,7 @@
+# Screenshot of working application
+
+![image](/images/screenshot.png?raw=true)
+
 # Dev Assessment - Webhook Receiver
 
 Please use this repository for constructing the Flask webhook receiver.
